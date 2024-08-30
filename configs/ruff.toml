@@ -1,3 +1,10 @@
+# Assume Python 3.10.
+target-version = "py310"
+output-format = "pylint"
+src = ["src"]
+
+[lint]
+fixable = ["ALL"]
 select = [
   "A",
   "AIR",
