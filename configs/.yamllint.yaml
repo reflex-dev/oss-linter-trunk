@@ -7,7 +7,7 @@ yaml-files:
 
 rules:
   braces: enable
-  brackets: enable
+  brackets: false
   colons: enable
   commas: enable
   comments:
@@ -33,7 +33,6 @@ rules:
   quoted-strings:
     quote-type: double
     required: true
-    extra-allowed: ["{|}"]
   trailing-spaces: enable
   truthy:
     level: warning

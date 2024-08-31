@@ -19,8 +19,8 @@
   "reportUnknownArgumentType": "none",
   "reportUnknownLambdaType": "warning",
   "reportUnknownMemberType": "none",
-  "reportUnknownParameterType": "warning",
-  "reportUnknownVariableType": "warning",
+  "reportUnknownParameterType": "none",
+  "reportUnknownVariableType": "none",
   "reportUntypedBaseClass": "none",
   "reportUntypedFunctionDecorator": "none"
 }

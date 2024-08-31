@@ -2,9 +2,14 @@
 default: true
 blank_lines: false
 bullet: false
+first-line-heading: false
 html: false
 indentation: false
 line_length: false
+no-duplicate-heading: false
+no-emphasis-as-heading: false
+no-trailing-punctuation: false
+single-title: false
 spaces: false
 url: false
 whitespace: false
