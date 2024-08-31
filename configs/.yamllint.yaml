@@ -25,14 +25,14 @@ rules:
   indentation: enable
   key-duplicates: {}
   key-ordering: disable
-  line-length: disable  # default: enabled
+  line-length: disable # default: enabled
   new-line-at-end-of-file: enable
   new-lines: enable
   octal-values:
     forbid-implicit-octal: true
   quoted-strings:
     quote-type: double
-    required: only-when-needed
+    required: true
     extra-allowed: ["{|}"]
   trailing-spaces: enable
   truthy:
