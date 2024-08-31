@@ -82,3 +82,6 @@ ignore = [
 
 [lint.pydocstyle]
 convention = "google"
+
+[lint.isort]
+force-single-line = true
