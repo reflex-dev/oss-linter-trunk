@@ -35,4 +35,5 @@ rules:
     required: false
   trailing-spaces: enable
   truthy:
+    allowed-values: ["true", "false", "on"]
     level: warning
