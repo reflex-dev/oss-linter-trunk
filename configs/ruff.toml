@@ -85,7 +85,7 @@ ignore = [
 [lint.isort]
 case-sensitive = true
 combine-as-imports = true
-force-sort-within-sections = true
+force-sort-within-sections = false
 force-wrap-aliases = true
 order-by-type = true
 
